@@ -1,0 +1,11 @@
+Employee Name: John Smith
+
+Department: Information Technology
+
+Joining Date: 15/11/2026
+
+Email ID: john@gmail.com
+
+Status: Active
+
+Responsibilities: Managing website content and digital assets.

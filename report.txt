@@ -1,0 +1,7 @@
+Content standardization report
+Input: samples\sample_input.txt
+Output: standardized.txt
+Words: 23
+Findings: 1
+- [placeholder] (line 5) Possible placeholder text remains.
+Note: automated checks cannot verify factual accuracy.

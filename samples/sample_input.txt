@@ -1,0 +1,12 @@
+employee name : john smith
+
+department - INFORMATION TECHNOLOGY
+
+joining date : 15/11/2026
+
+email id : JOHN@GMAIL.COM
+
+status : ACTIVE
+
+employee is responsible for managing
+website content and digital assets.
